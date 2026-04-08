@@ -72,7 +72,7 @@ One-to-many relationships between Students and other tables\
 ## 📷 Dashboard Preview
 
 ![Dashboard](Dashboard.png)
-![Dashboard2]()
+![Dashboard2](Dahboard2.png)
 ![Preview]()
 ![Photo]()
 
