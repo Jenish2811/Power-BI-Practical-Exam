@@ -74,7 +74,7 @@ One-to-many relationships between Students and other tables\
 ![Dashboard](Dashboard.png)
 ![Dashboard2](Dahboard2.png)
 ![Preview]()
-![Photo]()
+![Photo](Photo.png)
 
 ## 🚀 How to Use
 
