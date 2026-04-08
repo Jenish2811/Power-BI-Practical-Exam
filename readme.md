@@ -98,3 +98,9 @@ One-to-many relationships between Students and other tables\
     ├── Behavior.xlsx
     ├── Scores.xlsx
     └── readme.md
+    └── Dashboard.png
+    └── Dashboard2.png
+    └── Preview.png
+    └── Photo.png 
+    
+    
